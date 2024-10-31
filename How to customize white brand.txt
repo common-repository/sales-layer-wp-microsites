@@ -1,0 +1,18 @@
+1. Modify commented controller.php header
+
+/*
+Plugin Name: Sales Layer WP Microsites
+Plugin URI: https://github.com/saleslayer/saleslayer_wp_microsites
+Description: Sales Layer microsites connector.
+Version: 1.7
+Author: Sales Layer
+Author URI: http://saleslayer.com/
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+2. Modify settings.php (SLYRMC_name, SLYRMC_name_icon, SLYRMC_name_logo)
+
+3. Modify readme.txt
+
+4. Package!
